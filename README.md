@@ -15,6 +15,11 @@ A board-ready Executive KPI Report built in Power BI for a fictional global ente
 | Country Drill-Through | Drill-through B |
 
 
+Click Here to View [Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYzY0NTdlNzAtMjc5NS00ZTUzLWJhYmItMGMxNmNmYWQ1NjUxIiwidCI6IjQ2NTRiNmYxLTBlNDctNDU3OS1hOGExLTAyZmU5ZDk0M2M3YiIsImMiOjl9)
+
+<img width="853" height="480" alt="Crystal_Executive_KPI_Dashboard" src="https://github.com/user-attachments/assets/2fac259e-7038-4273-b62f-a5762e50f04d" />
+
+
 ## 🏆 Challenge Brief
 
 Built for the **ZoomCharts 4U Data Challenge — April Edition**. The objective was to design a clean, executive-focused Power BI report for Nexoria Group that communicates high-level performance while allowing stakeholders to explore drivers through hierarchy-based drill-down paths.
