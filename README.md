@@ -1,4 +1,4 @@
-# 📊 Nexoria Group — Executive KPI Dashboard
+# 📊 Nexoria Group - Executive KPI Dashboard
 ### ZoomCharts 4U Data Challenge · April Edition
 
 A board-ready Executive KPI Report built in Power BI for a fictional global enterprise, Nexoria Group — covering 24 months of Financial, People, Customer and Operational KPIs across 3 divisions and 34 countries.
