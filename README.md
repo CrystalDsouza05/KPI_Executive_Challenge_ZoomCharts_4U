@@ -3,6 +3,9 @@
 
 A board-ready Executive KPI Report built in Power BI for a fictional global enterprise, Nexoria Group — covering 24 months of Financial, People, Customer and Operational KPIs across 3 divisions and 34 countries.
 
+![Power BI](https://img.shields.io/badge/Tool-Power%20BI-yellow)
+![Analytics](https://img.shields.io/badge/Focus-Data%20Analytics-blue)
+![Status](https://img.shields.io/badge/Project-Dashboard-red)
 
 ## 🖼️ Dashboard Preview
 
