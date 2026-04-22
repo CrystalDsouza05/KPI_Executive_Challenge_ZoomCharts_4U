@@ -19,7 +19,7 @@ A board-ready Executive KPI Report built in Power BI for a fictional global ente
 
 -----
 
-Click Here to View [Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZTdhOTIwMTUtMTAwYi00NWIxLTgwYTUtNGVlYjAxYmNiZTJmIiwidCI6IjQ2NTRiNmYxLTBlNDctNDU3OS1hOGExLTAyZmU5ZDk0M2M3YiIsImMiOjl9)
+Click Here to View [Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMDAwZDU4ZWItNzUzNi00MDhkLTg0NTAtOTRjOWE2ZDlkYzM2IiwidCI6IjQ2NTRiNmYxLTBlNDctNDU3OS1hOGExLTAyZmU5ZDk0M2M3YiIsImMiOjl9)
 
 
 <img width="1920" height="1080" alt="Crystal_Executive_KPI_Dashboard" src="https://github.com/user-attachments/assets/79bc516c-a0a5-40b4-98d7-702f454c1ce8" />
